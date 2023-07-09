@@ -7,3 +7,5 @@ Each mode is configurable with preset values to change the speed or functionalti
 • Strobing Display outputs a linear output to the LEDs at various speeds and patterns.
 
 • LFSR is a random sequence generator which uses its previous input to create its next sequence.
+
+Main code found in 'PROGRAM.asm'
