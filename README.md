@@ -1,6 +1,6 @@
 # 3-in-1-Project
 User is able to choose between 3 modes; Variable PWM, Strobing Display and LFSR (Linear Feedback Shift Register). 
-Each mode is configurable with preset values to change the speed or functionaltiy of the mode.
+Each mode is configurable with pre-set values to change the speed or functionality of the mode.
 
 • Variable PWM produces visual modulating square wave at variable frequncies and duty cycles.
 
