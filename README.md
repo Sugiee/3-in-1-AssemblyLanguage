@@ -8,4 +8,4 @@ Each mode is configurable with pre-set values to change the speed or functionali
 
 • LFSR is a random sequence generator which uses its previous input to create its next sequence.
 
-Main code found in 'PROGRAM.asm'
+**Main code found in 'PROGRAM.asm'**
